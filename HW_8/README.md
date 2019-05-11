@@ -1,2 +1,1 @@
-linked list - sort\n
-bst
+linked list - sort, bst
